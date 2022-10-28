@@ -1,0 +1,1 @@
+oyunun kisa surmesi ve skor kaydetmesini kontrol etmek için gamemanager.winCond = 32 ayarladim isterseniz daha yuksege cekip oyun suresini uzatabilirsiniz.
